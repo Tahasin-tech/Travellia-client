@@ -1,0 +1,33 @@
+.one{
+    background: linear-gradient(rgba(48,79,71,.65) 100%,rgba(48,79,71,.65) 0),url('https://media.timeout.com/images/105240189/750/422/image.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.two{
+    background: linear-gradient(rgba(48,79,71,.65) 100%,rgba(48,79,71,.65) 0),url('https://tripnstay.com/wp-content/uploads/2018/08/kimony-beach1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.three{
+    background: linear-gradient(rgba(48,79,71,.65) 100%,rgba(48,79,71,.65) 0),url('https://imgcld.yatra.com/ytimages/image/upload/t_seo_Holidays_w_379_h_204_c_fill_g_auto_q_auto:good_f_jpg/v1472197893/Varkala_Map.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.lg-font-style{
+    font-size: 80px;
+    font-weight: 700;
+    color: white;
+}
+.sm-font-style{
+    font-weight: 700;
+    color: whitesmoke;
+}
+.stroke{
+    color: transparent; 
+            
+            -webkit-text-stroke-width: 1px; 
+            -webkit-text-stroke-color: white; 
+}
